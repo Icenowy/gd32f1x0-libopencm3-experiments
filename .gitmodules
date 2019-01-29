@@ -1,4 +1,0 @@
-[submodule "libopencm3"]
-	path = libopencm3
-	url = https://github.com/Icenowy/libopencm3
-	branch = gd32f1x0
